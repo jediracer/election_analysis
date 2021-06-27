@@ -30,7 +30,7 @@ The analysis of the election show that:
 - In Denver county 306,055 votes were cast which is 82.8% of the votes cast in the precinct.
 - In Jefferson county 38,855 votes were cast which is 10.5% of the votes cast in the precinct.
 - The county with the largest turnout was Denver with 306,055 votes.
--! [County Results](https://github.com/jediracer/election_analysis/blob/main/resources/county_results.png)
+- ![County Results](https://github.com/jediracer/election_analysis/blob/main/resources/county_results.png)
 ### Election Results
 - The candidates were:
 - Charles Casper Stockham
@@ -42,8 +42,8 @@ The analysis of the election show that:
 - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of election was:
 - Diana DeGette, who received 73.8% of the vote and 272,892 votes
--! [Candidate Results](https://github.com/jediracer/election_analysis/blob/main/resources/candidate_results.png)
--! [Election Analysis](https://github.com/jediracer/election_analysis/blob/main/analysis/election_analysis.txt)
+- ![Candidate Results](https://github.com/jediracer/election_analysis/blob/main/resources/candidate_results.png)
+- ![Election Analysis](https://github.com/jediracer/election_analysis/blob/main/analysis/election_analysis.txt)
 
 ## Challenge Overview
 
