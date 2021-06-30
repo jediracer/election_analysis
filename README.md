@@ -43,8 +43,13 @@ The analysis of the election show that:
 - The winner of election was:
 - Diana DeGette, who received 73.8% of the vote and 272,892 votes
 - ![Candidate Results](https://github.com/jediracer/election_analysis/blob/main/resources/candidate_results.png)
+
 - ![Election Analysis](https://github.com/jediracer/election_analysis/blob/main/analysis/election_analysis.txt)
 
-## Challenge Overview
+## Election-Audit Summary
+- The current script could be modified to output additional metrics to be used with any election
+### Script modifications
+- Additional lists and dictionaries can be added to store and calculate the percentage of votes each candidate won on a county level.
+- With an additional column added to the election data defining the precinct (e.g., state, county, neighborhood), dynamic headers could be used versus the static "County" headers.
+- With candidate political party affiliation data, the results could be broken down by political party
 
-## Challenge Summary
