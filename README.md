@@ -1,7 +1,7 @@
 # election_analysis
 
 ## Project Overview
-Colorado Board of Elections ask for an audit of a recent local congressional election by completing the following tasks.
+Colorado Board of Elections requested an audit of a recent local congressional election by completing the following tasks.
 
 1. Calculate the total number of votes cast.
 2. List the counties in the precinct.
@@ -47,9 +47,9 @@ The analysis of the election show that:
 - ![Election Analysis](https://github.com/jediracer/election_analysis/blob/main/analysis/election_analysis.txt)
 
 ## Election-Audit Summary
-- The current script could be modified to output additional metrics to be used with any election
-### Script modifications
+- The current script could be modified to output additional metrics to be used with any election.
+### Potential Script modifications
 - Additional lists and dictionaries can be added to store and calculate the percentage of votes each candidate won on a county level.
-- With an additional column added to the election data defining the precinct (e.g., state, county, neighborhood), dynamic headers could be used versus the static "County" headers.
-- With candidate political party affiliation data, the results could be broken down by political party
+ - With an additional column added to the election data defining the precinct (e.g., state, county, neighborhood), dynamic headers could be used versus the static "County" headers.
+- With candidate political party affiliation data, the results could be broken down by political party'
 
