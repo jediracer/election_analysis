@@ -50,6 +50,6 @@ The analysis of the election show that:
 - The current script could be modified to output additional metrics to be used with any election.
 ### Potential Script modifications
 - Additional lists and dictionaries can be added to store and calculate the percentage of votes each candidate won on a county level.
- - With an additional column added to the election data defining the precinct (e.g., state, county, neighborhood), dynamic headers could be used versus the static "County" headers.
-- With candidate political party affiliation data, the results could be broken down by political party'
+-- With an additional column added to the election data defining the precinct (e.g., state, county, neighborhood), dynamic headers could be used versus the static "County" headers.
+- With candidate political party affiliation data, the results could be broken down by political party.
 
