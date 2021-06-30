@@ -1,4 +1,4 @@
-# election_analysis
+# Election Analysis
 
 ## Project Overview
 Colorado Board of Elections requested an audit of a recent local congressional election by completing the following tasks.
@@ -48,7 +48,7 @@ The analysis of the election show that:
 
 ## Election-Audit Summary
 - The current script could be modified to output additional metrics to be used with any election.
-### Potential Script modifications
+### Potential Script Modifications
 - Additional lists and dictionaries can be added to store and calculate the percentage of votes each candidate won on a county level.
 	- With an additional column added to the election data defining the precinct (e.g., state, county, neighborhood), dynamic headers could be used versus the static "County" headers.
 - With candidate political party affiliation data, the results could be broken down by political party.
